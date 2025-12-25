@@ -91,12 +91,12 @@ The following planners register "best cost" properties:
 
 | Planner | 文件 (File) | 代码行 (Line) |
 |---------|-------------|---------------|
-| RRTstar | `src/ompl/geometric/planners/rrt/src/RRTstar.cpp` | ~150 |
+| RRTstar | `src/ompl/geometric/planners/rrt/src/RRTstar.cpp` | 86 |
 | RRTXstatic | `src/ompl/geometric/planners/rrt/src/RRTXstatic.cpp` | ~140 |
 | TRRTstar | `src/ompl/geometric/planners/rrt/src/TRRTstar.cpp` | ~80 |
 | LBTRRT | `src/ompl/geometric/planners/rrt/src/LBTRRT.cpp` | ~140 |
 | LazyLBTRRT | `src/ompl/geometric/planners/rrt/src/LazyLBTRRT.cpp` | ~130 |
-| BITstar | `src/ompl/geometric/planners/informedtrees/src/BITstar.cpp` | ~200 |
+| BITstar | `src/ompl/geometric/planners/informedtrees/src/BITstar.cpp` | 117 |
 | AITstar | `src/ompl/geometric/planners/informedtrees/src/AITstar.cpp` | ~120 |
 | EITstar | `src/ompl/geometric/planners/informedtrees/src/EITstar.cpp` | ~120 |
 | BLITstar | `src/ompl/geometric/planners/lazyinformedtrees/src/BLITstar.cpp` | ~100 |
